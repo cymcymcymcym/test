@@ -1,12 +1,14 @@
 # Fdb version 4
-["pdflatex"] 1725415006.7986 "d:/projects/lean/example2/blueprint/src/web.tex" "web.pdf" "web" 1725415008.31914 2
+["pdflatex"] 1725415109.8415 "d:/projects/lean/example2/blueprint/src/web.tex" "web.pdf" "web" 1725415111.21419 2
   "C:/Users/Matt/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1725296972 37434500 b37a3f8138597a2759c8ba2e0cba1666 ""
   "D:/miktex/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136743454 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "D:/miktex/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "D:/miktex/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "D:/miktex/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1233951854 916 f87d7c45f9c908e672703b83b72241a3 ""
+  "D:/miktex/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233951854 924 9904cf1d39e9767e7a3622f2a125a565 ""
   "D:/miktex/fonts/tfm/public/amsfonts/symbols/msam7.tfm" 1233951854 928 2dc8d444221b7a635bb58038579b861a ""
   "D:/miktex/fonts/tfm/public/amsfonts/symbols/msbm10.tfm" 1233951854 908 2921f8a10601f252058503cc6570e581 ""
+  "D:/miktex/fonts/tfm/public/amsfonts/symbols/msbm5.tfm" 1233951854 940 75ac932a52f80982a9f8ea75d03a34cf ""
   "D:/miktex/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1233951854 940 228d6584342e91276bf566bcf9716b83 ""
   "D:/miktex/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "D:/miktex/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -64,12 +66,12 @@
   "D:/miktex/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "D:/miktex/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "blueprint.sty" 1725415003 33 380e7b64027817bb38aa9902f30ab0d0 ""
-  "content.tex" 1725415003 363 d68ec385ab7b5b65ef8d18eff416b83d ""
+  "content.tex" 1725415107 400 ab1a1b18c93841bc8a754f8d91663778 ""
   "d:/projects/lean/example2/blueprint/src/web.tex" 1725415003 668 72ae6095dd922d33ad3a0168dbd5456e ""
   "macros/common.tex" 1725415003 820 60fafcc3aa944a5e60030581a943ef6b ""
   "macros/web.tex" 1725415003 260 cdb7c9ac756cf5815dc98c2bb10a4f5b ""
-  "web.aux" 1725415007 543 3d56a8bd03723e04d802b7d5a5d3248b "pdflatex"
-  "web.out" 1725415007 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "web.aux" 1725415110 886 4bc21ad09308e213d0d2743925df3675 "pdflatex"
+  "web.out" 1725415110 80 41207a27c73ceed87215fd28fe126771 "pdflatex"
   "web.tex" 1725415003 668 72ae6095dd922d33ad3a0168dbd5456e ""
   (generated)
   "web.aux"

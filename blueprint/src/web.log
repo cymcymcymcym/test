@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10) (preloaded format=xelatex 2024.9.3)  4 SEP 2024 09:56
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.10) (preloaded format=xelatex 2024.9.3)  4 SEP 2024 09:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -370,11 +370,114 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
 
 (D:\miktex\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1] (content.tex) (web.aux)
+) [1] (content.tex
+content.tex:6: Undefined control sequence.
+l.6 \lean
+         {one}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+content.tex:7: Undefined control sequence.
+l.7 \leanok
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+content.tex:15: Undefined control sequence.
+l.15 \lean
+          {two}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+content.tex:16: Undefined control sequence.
+l.16 \leanok
+            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+content.tex:24: Undefined control sequence.
+l.24 \lean
+          {one_plus_one_eq_two}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+content.tex:24: Missing $ inserted.
+<inserted text> 
+                $
+l.24 \lean{one_
+               plus_one_eq_two}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+content.tex:24: Extra }, or forgotten $.
+l.24 \lean{one_plus_one_eq_two}
+                               
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+content.tex:25: Undefined control sequence.
+l.25 \uses
+          {one, two}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+content.tex:26: Undefined control sequence.
+l.26 \leanok
+            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+content.tex:27: Missing $ inserted.
+<inserted text> 
+                $
+l.27 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+content.tex:27: Missing } inserted.
+<inserted text> 
+                }
+l.27 
+     
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+) [1] (web.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package rerunfilecheck Warning: File `web.out' has changed.
@@ -383,15 +486,15 @@ Package rerunfilecheck Warning: File `web.out' has changed.
 
 Package rerunfilecheck Info: Checksums for `web.out':
 (rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             After:  41207A27C73CEED87215FD28FE126771;80.
  ) 
 Here is how much of TeX's memory you used:
- 9054 strings out of 410379
- 134149 string characters out of 5795157
- 1911416 words of memory out of 5000000
- 30301 multiletter control sequences out of 15000+600000
- 563098 words of font info for 58 fonts, out of 8000000 for 9000
+ 9088 strings out of 410379
+ 134798 string characters out of 5795157
+ 1913416 words of memory out of 5000000
+ 30326 multiletter control sequences out of 15000+600000
+ 564829 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,6n,79p,580b,342s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on web.pdf (2 pages).
+Output written on web.pdf (3 pages).
